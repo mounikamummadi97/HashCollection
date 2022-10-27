@@ -1,0 +1,15 @@
+D:\c# code\HashCollection\HashCollection\obj\Debug\net6.0\HashCollection.csproj.AssemblyReference.cache
+D:\c# code\HashCollection\HashCollection\obj\Debug\net6.0\HashCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# code\HashCollection\HashCollection\obj\Debug\net6.0\HashCollection.AssemblyInfoInputs.cache
+D:\c# code\HashCollection\HashCollection\obj\Debug\net6.0\HashCollection.AssemblyInfo.cs
+D:\c# code\HashCollection\HashCollection\obj\Debug\net6.0\HashCollection.csproj.CoreCompileInputs.cache
+D:\c# code\HashCollection\HashCollection\bin\Debug\net6.0\HashCollection.exe
+D:\c# code\HashCollection\HashCollection\bin\Debug\net6.0\HashCollection.deps.json
+D:\c# code\HashCollection\HashCollection\bin\Debug\net6.0\HashCollection.runtimeconfig.json
+D:\c# code\HashCollection\HashCollection\bin\Debug\net6.0\HashCollection.dll
+D:\c# code\HashCollection\HashCollection\bin\Debug\net6.0\HashCollection.pdb
+D:\c# code\HashCollection\HashCollection\obj\Debug\net6.0\HashCollection.dll
+D:\c# code\HashCollection\HashCollection\obj\Debug\net6.0\refint\HashCollection.dll
+D:\c# code\HashCollection\HashCollection\obj\Debug\net6.0\HashCollection.pdb
+D:\c# code\HashCollection\HashCollection\obj\Debug\net6.0\HashCollection.genruntimeconfig.cache
+D:\c# code\HashCollection\HashCollection\obj\Debug\net6.0\ref\HashCollection.dll
